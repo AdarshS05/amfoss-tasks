@@ -121,5 +121,7 @@ TerminalWizard$ rm Part_03.txt<br/>
 TerminalWizard$ rm Part_04.txt<br/>
 TerminalWizard$ rm Part_05.txt<br/>
 TerminalWizard$ touch finalcode.txt<br/>
+![Screenshot from 2023-08-31 10-21-07](https://github.com/AdarshS05/amfoss-tasks/assets/143167833/ae4692b7-c84a-4833-a405-26ba771ee0f0)
+
 
 

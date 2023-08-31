@@ -23,7 +23,7 @@ TerminalWizard$ ls
 01  02  03  04  05  06  07  08  assets  codes  Readme.md  spellbook  Steps.md
 TerminalWizard$ cd spellbook
 
-First Challenge
+First Challenge<br/><br/>
 Directory = 06, Spell_05 : Impedimenta
 
 TerminalWizard/spellbook$ python3 Impedimenta.py
@@ -34,7 +34,7 @@ TerminalWizard$ cd codes
 TerminalWizard$ touch Part_02.txt
 
  
-Second Challenge
+Second Challenge<br/><br/>
 Directory = 02, Spell_03 : Stupefy
 
 TerminalWizard/spellbook$ python3 Stupefy.py
@@ -46,7 +46,7 @@ TerminalWizard/spellbook$ python3 Stupefy.py
 TerminalWizard$ cd codes
 TerminalWizard$ touch Part_03.txt
 
-Third Challenge
+Third Challenge<br/><br/>
 TerminalWizard/spellbook$ git branch -a
 * (HEAD detached at origin/defenseAgainstTheDarkArts)
   main
@@ -71,7 +71,7 @@ TerminalWizard/spellbook$ python3 Riddikulus.py
 TerminalWizard$ cd codes
 TerminalWizard$ touch Part_04.txt
 
-Fourth Challenge
+Fourth Challenge<br/><br/>
 TerminalWizard/spellbook$ git commit
 
 TerminalWizard/spellbook$ git checkout remotes/origin/thegraveyard
@@ -87,7 +87,7 @@ TerminalWizard/spellbook$ python3 'Priori Incantatem.py'
 TerminalWizard$ cd codes
 TerminalWizard$ touch Part_05.txt
 
-The End
+The End<br/><br/>
 TerminalWizard/spellbook$ echo AHR0cHM6Ly9naXRodWIuY29tL1RoZUh1bnRzbWFuNC9UaGVGaW5hbFNwZWxs | base64 --decode
 https://github.com/TheHuntsman4/TheFinalSpell
 

@@ -1,4 +1,4 @@
-Terminal Commands Used
+'''Terminal Commands Used'''
 
 * supo apt install- install a file/program
 * ls- indicates which files are in a directory
@@ -8,7 +8,7 @@ Terminal Commands Used
 * mkdir- make directory
 * rm - delete files
 
-GIT Commands Used
+'''GIT Commands Used'''
 
 * git clone- clone a repository
 * git commit - commit changes
@@ -21,9 +21,9 @@ mkdir codes
 
 TerminalWizard$ ls
 01  02  03  04  05  06  07  08  assets  codes  Readme.md  spellbook  Steps.md
-TerminalWizard$ cd spellbook
+TerminalWizard$ cd spellbook<br/><br/>
 
-First Challenge<br/><br/>
+'''First Challenge'''<br/><br/>
 Directory = 06, Spell_05 : Impedimenta
 
 TerminalWizard/spellbook$ python3 Impedimenta.py
@@ -31,10 +31,10 @@ TerminalWizard/spellbook$ python3 Impedimenta.py
     If yes, then the secret code assosciated with it is:
     aHR0cHM6Ly9naX
 TerminalWizard$ cd codes
-TerminalWizard$ touch Part_02.txt
+TerminalWizard$ touch Part_02.txt<br/><br/>
 
  
-Second Challenge<br/><br/>
+'''Second Challenge'''<br/><br/>
 Directory = 02, Spell_03 : Stupefy
 
 TerminalWizard/spellbook$ python3 Stupefy.py
@@ -46,7 +46,7 @@ TerminalWizard/spellbook$ python3 Stupefy.py
 TerminalWizard$ cd codes
 TerminalWizard$ touch Part_03.txt
 
-Third Challenge<br/><br/>
+'''Third Challenge'''<br/><br/>
 TerminalWizard/spellbook$ git branch -a
 * (HEAD detached at origin/defenseAgainstTheDarkArts)
   main
@@ -69,9 +69,9 @@ TerminalWizard/spellbook$ python3 Riddikulus.py
     here is the secret code assosciated with it: Uh1bnRzbWFuNC9U
     
 TerminalWizard$ cd codes
-TerminalWizard$ touch Part_04.txt
+TerminalWizard$ touch Part_04.txt<br/><br/>
 
-Fourth Challenge<br/><br/>
+'''Fourth Challenge'''<br/><br/>
 TerminalWizard/spellbook$ git commit
 
 TerminalWizard/spellbook$ git checkout remotes/origin/thegraveyard
@@ -85,13 +85,13 @@ TerminalWizard/spellbook$ python3 'Priori Incantatem.py'
     aGVGaW5hbFNwZWxs
     
 TerminalWizard$ cd codes
-TerminalWizard$ touch Part_05.txt
+TerminalWizard$ touch Part_05.txt<br/><br/>
 
-The End<br/><br/>
+'''The End'''<br/><br/>
 TerminalWizard/spellbook$ echo AHR0cHM6Ly9naXRodWIuY29tL1RoZUh1bnRzbWFuNC9UaGVGaW5hbFNwZWxs | base64 --decode
-https://github.com/TheHuntsman4/TheFinalSpell
+https://github.com/TheHuntsman4/TheFinalSpell<br/><br/>
 
-FinalSpell
+'''FinalSpell'''
 git clone https://github.com/TheHuntsman4/TheFinalSpell
 Cloning into 'TheFinalSpell'...
 remote: Enumerating objects: 6, done.

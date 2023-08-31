@@ -26,7 +26,9 @@ TerminalWizard$ cd spellbook<br/><br/>
 First Challenge<br/><br/>
 Directory = 06, Spell_05 : Impedimenta<br/>
 
-TerminalWizard/spellbook$ python3 Impedimenta.py
+TerminalWizard/spellbook$ python3 Impedimenta.py<br/>
+
+
     None (@AdarshS05), you are about to use the Impedimenta spell. Are you sure this is the right one?
     If yes, then the secret code assosciated with it is:
     aHR0cHM6Ly9naX

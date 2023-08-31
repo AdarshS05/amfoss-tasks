@@ -93,8 +93,8 @@ The End<br/><br/>
 TerminalWizard/spellbook$ echo AHR0cHM6Ly9naXRodWIuY29tL1RoZUh1bnRzbWFuNC9UaGVGaW5hbFNwZWxs | base64 --decode<br/>
 https://github.com/TheHuntsman4/TheFinalSpell<br/><br/>
 
-'''FinalSpell'''
-git clone https://github.com/TheHuntsman4/TheFinalSpell
+FinalSpell<br/>
+git clone https://github.com/TheHuntsman4/TheFinalSpell<br/>
 Cloning into 'TheFinalSpell'...<br/>
 remote: Enumerating objects: 6, done.<br/>
 remote: Counting objects: 100% (6/6), done.<br/>

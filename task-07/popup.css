@@ -1,0 +1,52 @@
+    body {
+    margin: 0;
+    padding: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    justify-content: center;
+    align-items: center;
+    background-image: url(Assets/bg.png);
+    background-size: cover; 
+    background-attachment: fixed;
+}
+
+.heading {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight:bolder;
+    color: #ffffff;
+    text-align: left;
+}
+
+.data{
+    align-items: center;
+    justify-content: center;
+}
+
+.inputb {
+    font-size:19px;
+    border:0;
+    outline:0;
+    background: #ffffff;
+    border-radius: 80%;
+    padding:10px 25px;
+    height:30px;
+    border-radius: 30px;
+    text-align: left;
+    
+
+}
+
+
+.enter{
+    font-size:18px;
+    background: #ffffff;
+    text-align: center;
+    align-self: center;
+}
+
+.output{
+    font-size:18px;
+    text-transform: uppercase;
+    background: #ffffff;
+    text-align: left;
+}

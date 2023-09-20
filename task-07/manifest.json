@@ -1,0 +1,11 @@
+{
+
+	"manifest_version": 3,
+	"name": "YourWeatherForecaster",
+	"version": "1.0",
+	"description": "A simple tool for forecasting weather",
+	"permissions": ["geolocation", "http://api.openweathermap.org/"],
+	"action":{
+		"default_popup":"index.html"
+	}
+}

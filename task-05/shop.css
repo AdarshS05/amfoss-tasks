@@ -1,0 +1,203 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #3345AB; 
+}
+
+.back{
+    opacity: 0.3;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    min-width: 100%;
+    height: 65px ;
+}
+
+.logo{
+    position: absolute;
+    top: 20px;
+    left: 80px;
+}
+
+.spot{
+    position: absolute;
+    top: 23px;
+    right: 200px;
+}
+
+.yout{
+    position: absolute;
+    top: 20px;
+    right: 150px;
+}
+
+.twit{
+    position: absolute;
+    top: 20px;
+    right: 100px;
+}
+
+.inst{
+    position: absolute;
+    top: 20px;
+    right: 50px;
+}
+
+.styled-text {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.styled-text price{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 21px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.product-list {
+
+    display: table;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+.product-img {
+    vertical-align: middle;
+    width: 195px;
+    height: 195px;
+}
+
+
+
+.product_origins {
+    position: absolute;
+    top: 150px;
+    left: 150px;
+    background-color: #3345AB;
+    border: 5px groove #2BDAE1;
+    width: 200px;
+    text-align: center;
+}
+
+.product_florallogo {
+    position: absolute;
+    top: 150px;
+    left: 400px;
+    background-color: #3345AB;
+    border: 5px groove #2BDAE1;
+    width: 200px;
+    text-align: center;
+}
+
+.product_nexttome {
+    position: absolute;
+    top: 150px;
+    left: 650px;
+    background-color: #3345AB;
+    border: 5px groove #2BDAE1;
+    width: 200px;    
+    text-align: center;
+}
+
+.product_vegustrucker {
+    position: absolute;
+    top: 150px;
+    left: 900px;
+    background-color: #3345AB;
+    border: 5px groove #2BDAE1;
+    width: 200px;
+    text-align: center;
+}
+
+.product_imaginea1 {
+    position: absolute;
+    top: 500px;
+    left: 150px;
+    background-color: #3345AB;
+    border: 5px groove #2BDAE1;
+    width: 200px;
+    text-align: center;
+}
+
+.product_mercury_act1 {
+    position: absolute;
+    top: 500px;
+    left: 400px;
+    background-color: #3345AB;
+    border: 5px groove #2BDAE1;
+    width: 200px;
+    text-align: center;
+}
+
+.product_keychain {
+    position: absolute;
+    top: 500px;
+    left: 650px;
+    background-color: #3345AB;
+    border: 5px groove #2BDAE1;
+    width: 200px;    
+    text-align: center;
+}
+
+.product_vintagegraphic {
+    position: absolute;
+    top: 500px;
+    left: 900px;
+    background-color: #3345AB;
+    border: 5px groove #2BDAE1;
+    width: 200px;
+    text-align: center;
+}
+
+.product_mercury_act2 {
+    position: absolute;
+    top: 850px;
+    left: 150px;
+    background-color: #3345AB;
+    border: 5px groove #2BDAE1;
+    width: 200px;
+    text-align: center;
+}
+
+.product_vintagevegas {
+    position: absolute;
+    top: 850px;
+    left: 400px;
+    background-color: #3345AB;
+    border: 5px groove #2BDAE1;
+    width: 200px;
+    text-align: center;
+}
+
+.product_nightvisions {
+    position: absolute;
+    top: 850px;
+    left: 650px;
+    background-color: #3345AB;
+    border: 5px groove #2BDAE1;
+    width: 200px;    
+    text-align: center;
+}
+
+.product_bonestreat {
+    position: absolute;
+    top: 850px;
+    left: 900px;
+    background-color: #3345AB;
+    border: 5px groove #2BDAE1;
+    width: 200px;
+    text-align: center;
+}
+
+.placeholder {
+    padding-bottom: 30px; 
+}

@@ -1,0 +1,5 @@
+This challenge was a bit difficult at the beginning but very rewarding at the end. It had a lot of experimenting, and I personally learnt a lot of things, like running a javascript, how url id's work and creating extentions for chrome. 
+
+I had no idea where to start from, so I searched up google for some help. I first created a manifest.json file which was mainly used to create details for the chrome extention. Next I worked on the html and css part using VScode. Lastly
+
+Using VS Code I first created a file called landingpage.html. I looked at google to understand how the HTML coding works. I then created a page which codes for the CSS in the landing page. As I didnt know much about how we position images/text I set a fixed/absolute position for all elements individually. I then created a button for the shop page and created the same on another html file. I similarly created a shop.css file which I used to code for all the items individually. Some errors were made and rectified in the allignment and sizes. 

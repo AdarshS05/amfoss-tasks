@@ -40,9 +40,7 @@ python3 Stupefy.py<br/>
 ## Third Challenge
 
 git checkout remotes/origin/defenseAgainstTheDarkArts<br/>
-HEAD is now at 866abd0 Add files from main branch<br/>
-
-TerminalWizard/spellbook$ python3 Riddikulus.py<br/>
+python3 Riddikulus.py<br/>
 
     None (@AdarshS05), you have found the right spell. As a part of your reward for solving the riddle,
     here is the secret code assosciated with it: 

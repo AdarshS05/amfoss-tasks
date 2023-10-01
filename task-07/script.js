@@ -1,5 +1,4 @@
-var button = document.querySelector('.button'
-);
+var button = document.querySelector('.button');
 var inputb = document.querySelector('.inputb');
 var description = document.querySelector('.description');
 var temperature = document.querySelector('.temperature');

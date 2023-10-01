@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
+import csv
 
 def scrape_live_scores():
     url = 'https://www.espncricinfo.com/live-cricket-score'

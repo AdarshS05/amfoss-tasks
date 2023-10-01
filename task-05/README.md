@@ -1,4 +1,6 @@
-This challenge was quite interesting and fun as well. Got to learn a lot more about HTML functions and CSS. 
+#Hypertext Mockup Language
+
+This challenge was quite interesting and fun as well. I got to learn a lot more about HTML functions and CSS. 
 
 I had a few issues with positioning the text and images, mostly when I tried opening it with different browsers, zoomed in and zoomed out, mimimised and maximised. Also had an issue with transfering/renaming the html and css files making the code not work properly so had created an assets folder for all the images used as well.
 

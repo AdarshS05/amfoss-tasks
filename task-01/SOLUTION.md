@@ -1,18 +1,18 @@
-## Terminal Commands Used
+### Terminal Commands Used
 
 * ls- indicates which files are in a directory
 * cd- commands to go to directory
+* cp- copies files/directories
 * touch- create a new file in a directory
 * cat/nano- open a file in a directory
 * mkdir- make directory
 * rm - delete files
 
-## GIT Commands Used
+### GIT Commands Used
 
-* git clone- clone a repository
 * git add . - add files 
 * git commit -m - commit files
-* git push - puw
+* git push - push files into github
    
 
 ## First Challenge
@@ -58,7 +58,7 @@ python3 'Priori Incantatem.py' <br/>
     **aGVGaW5hbFNwZWxs**
     
 ## The End
-echo **AHR0cHM6Ly9naXRodWIuY29tL1RoZUh1bnRzbWFuNC9UaGVGaW5hbFNwZWxs** | base64 --decode<br/>
+echo **aHR0cHM6Ly9naXRodWIuY29tL1RoZUh1bnRzbWFuNC9UaGVGaW5hbFNwZWxs** | base64 --decode<br/>
  -> https://github.com/TheHuntsman4/TheFinalSpell<br/><br/>
 
 ## FinalSpell
